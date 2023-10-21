@@ -7,6 +7,18 @@ android {
     namespace 'com.vishal.music_player'
     compileSdk 33
 
+
+
+    buildscript {
+        repositories {
+            google()
+            jcenter()
+        }
+        dependencies {
+            classpath 'com.android.tools.build:gradle:8.0.2' // Update this version
+        }
+    }
+
     defaultConfig {
         applicationId "com.vishal.music_player"
         minSdk 21
@@ -30,9 +42,14 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+    buildFeatures{
+        viewBinding true
+    }
 }
 
 dependencies {
+
+
 
     implementation 'androidx.core:core-ktx:1.8.0'
     implementation 'androidx.appcompat:appcompat:1.6.1'
