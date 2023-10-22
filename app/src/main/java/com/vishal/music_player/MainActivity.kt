@@ -1,5 +1,6 @@
 package com.vishal.music_player
 
+import android.annotation.SuppressLint
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Bundle
@@ -137,6 +138,7 @@ class MainActivity : AppCompatActivity() {
     }
 
    // access music file
+   @SuppressLint("Range")
    private fun getAllAudio(): ArrayList<Music> {
        val tempList = ArrayList<Music>()
        val selection = MediaStore.Audio.Media.IS_MUSIC + "!=0"
