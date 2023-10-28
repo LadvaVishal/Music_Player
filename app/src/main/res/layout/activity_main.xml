@@ -72,6 +72,7 @@
     android:fitsSystemWindows="true"
     app:headerLayout="@layout/nav_header"
     app:menu="@menu/nav_menu"
+
     android:id="@+id/navView"
     />
 </androidx.drawerlayout.widget.DrawerLayout>
