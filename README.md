@@ -12,6 +12,5 @@ Player Activity
 
 Favourite Activity
 
-![image](https://github.com/LadvaVishal/Music_Player/assets/113240232/d3649fee-512f-47e0-b3a2-141498ac9bc7)
-
+<img width="155" alt="image" src="https://github.com/LadvaVishal/Music_Player/assets/113240232/0a2764c5-4074-4e2c-a29a-0cda99c1a1a5">
 
