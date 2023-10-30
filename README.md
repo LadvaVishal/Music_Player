@@ -2,19 +2,25 @@
 
 Main Activity
 
-<img width="147" alt="image" src="https://github.com/LadvaVishal/Music_Player/assets/113240232/12b7c81e-30bf-420b-88b8-24b6b114d434">
-
-Navigation Bar on Main Activity
-
-<img width="155" alt="image" src="https://github.com/LadvaVishal/Music_Player/assets/113240232/9ef5bf55-5ba3-4ad6-a0f2-b372f7dbab2d">
-
-
-Player Activity
-
-<img width="154" alt="image" src="https://github.com/LadvaVishal/Music_Player/assets/113240232/cb0455f7-18e2-449a-a231-b27fd76f22c3">
+![image](https://github.com/LadvaVishal/Music_Player/assets/113240232/3a7263fc-9342-4bae-8497-c6b8887de465)
 
 
 Favourite Activity
 
-<img width="155" alt="image" src="https://github.com/LadvaVishal/Music_Player/assets/113240232/0a2764c5-4074-4e2c-a29a-0cda99c1a1a5">
+![image](https://github.com/LadvaVishal/Music_Player/assets/113240232/ebbfa9f7-66db-4b26-b25c-e68a8ffbd809)
 
+
+Player Activity:
+
+![image](https://github.com/LadvaVishal/Music_Player/assets/113240232/a9a9640c-c07b-4d33-9501-5ab7f0b34b09)
+
+Playlist
+
+![image](https://github.com/LadvaVishal/Music_Player/assets/113240232/ef81540a-cffe-49d2-8ee3-0f28b343f5a5)
+
+
+
+Navigation Bar of Main Page   
+
+
+![image](https://github.com/LadvaVishal/Music_Player/assets/113240232/3aa33e54-8d5b-4735-8906-84eac39728e9)
