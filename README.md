@@ -4,6 +4,10 @@ Main Activity
 
 <img width="147" alt="image" src="https://github.com/LadvaVishal/Music_Player/assets/113240232/12b7c81e-30bf-420b-88b8-24b6b114d434">
 
+Navigation Bar on Main Activity
+
+<img width="155" alt="image" src="https://github.com/LadvaVishal/Music_Player/assets/113240232/9ef5bf55-5ba3-4ad6-a0f2-b372f7dbab2d">
+
 
 Player Activity
 
